@@ -1,4 +1,5 @@
-# Customer Behaviour Model / Clustering with K-means, 
+# Customer Behaviour Model 
+
 
 # 1. Business Objective
 # We want to better understand our customer, particularly 
@@ -406,8 +407,3 @@ bootMean_df %>%
 # This analysis should provide a solid base for discussion with relevant business stakeholders. 
 # Normally I would present my client with a variety of customer profiles based on different combinations of customer features and formulate my own data-driven recommendations. 
 # However, it is ultimately down to them to decide how many groups they want settle for and what characteristics each segment should have.
-
-
-
-# Reference
-# https://diegousai.io/2019/09/steps-and-considerations-to-run-a-successful-segmentation/
